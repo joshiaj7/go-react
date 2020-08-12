@@ -1,4 +1,4 @@
-module github.com/joshiaj7/go-react
+module react-go
 
 go 1.14
 
